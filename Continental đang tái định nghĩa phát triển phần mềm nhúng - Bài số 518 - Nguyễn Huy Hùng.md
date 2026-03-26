@@ -16,19 +16,19 @@ Continetal là một trong những công ty trong lĩnh vực ảo hóa phần c
 Thì giờ đây, việc ảo hóa các phần cứng này, cụ thể hơn thiết kế một phần cứng vật lí ở môi trường ảo trước. Điều này có thể làm song song với việc phát triển phần mềm. Trong khi trước kia là không thể vì giới hạn phần cứng vật lí.
 Ngoài ra công ty còn kết hợp AWS trong lĩnh vực ảo hóa này.
 
-**🎯 Đối tượng đọc**: Dành cho đối tượng quan tâm về lĩnh vực oto, xe máy điện, lĩnh vực tự động hóa.
-**📊 Độ khó**: Dễ  
-**🏷️ Tags**: SDV, software defined vehicle
+**🎯 Đối tượng đọc**: Dành cho đối tượng quan tâm về lĩnh vực oto, xe máy điện, lĩnh vực tự động hóa.  
+**📊 Độ khó**: Dễ   
+**🏷️ Tags**: SDV, software defined vehicle  
 
 ---
 
 ## 📚 Mục lục
 
-- Phần 1: Giới thiệu
-- Phần 2: Bước nhảy tới việ ảo hóa ECU
-- Phần 3: Sự hướng đến ưu tiên thiết kế phần mềm ECU
-- Kết luận.
-- Đôi lời về tác giả.
+- Phần 1: Giới thiệu   
+- Phần 2: Bước nhảy tới việ ảo hóa ECU  
+- Phần 3: Sự hướng đến ưu tiên thiết kế phần mềm ECU  
+- Kết luận.  
+- Đôi lời về tác giả.  
 ---
 
 Nội dung bài dịch chính:
