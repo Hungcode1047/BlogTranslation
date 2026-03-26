@@ -141,7 +141,7 @@ Một số từ hơi lạ, cũng không quá khó nhưng để dịch tốt thì
 
 Bài dịch này được thực hiện trong khuôn khổ **FCJ Internship Program**. 
 
-**📧 Liên hệ**: teamo.my.little.lion@gmail.com  
+**📧 Liên hệ**: kimirokishoyu@gmail.com
 **💬 Feedback**: Mọi góp ý để cải thiện chất lượng dịch thuật xin gửi về email trên  
 **🔄 Updates**: Bài dịch sẽ được cập nhật dựa trên feedback từ cộng đồng
 
