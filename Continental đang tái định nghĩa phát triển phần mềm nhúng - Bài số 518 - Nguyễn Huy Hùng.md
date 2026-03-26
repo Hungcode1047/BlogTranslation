@@ -68,9 +68,11 @@ Hãy xem ví dụ về ADAS‑Cockpit HPC (AC HPC), chạy hai phân vùng trên
 Các phân vùng ảo được tích hợp lại thành một hệ thống con ECU ảo hoặc một máy tính hiệu năng cao ảo (vHPC) đầy đủ tất cả các thiết bị ngoại vi ảo cần thiết. Sau đó, vHPC có thể được kiểm thử bằng cùng bộ công cụ kiểm thử đã dùng cho phần cứng mục tiêu và ECU ảo hóa. Bằng cách đánh giá nhu cầu tài nguyên phần cứng, Continental có thể đề xuất và chọn hệ thống trên chip (SoC, ví dụ NXP hoặc Qualcomm) phù hợp nhất cho phần cứng và khối lượng công việc trong dự án HPC mới, từ đó tối ưu hiệu năng, hiệu quả hoạt động và chức năng cho khách hàng cuối (người tiêu dùng).  
   
 Hình 1 dưới đây minh họa một số loại phân vùng khác nhau, mỗi loại được thiết kế để chạy các ứng dụng ô tô trong môi trường đám mây. Hãy hình dung chúng như các bộ phần mềm khác nhau, mỗi bộ tượng trưng cho một hệ điều hành và khung phần mềm riêng. Phía dưới mỗi bộ đó là các tầng chung dành cho việc giao tiếp và kết nối phần cứng.   
+
 Hình 1. Hiện nay có các phân vùng Android, Linux, Autosar, QNX và Adaptive Autosar có sẵn  
 Các tùy chọn phân vùng khác nhau, từ trái sang phải trong Hình 1 ở trên, như sau:  
-  
+  <img width="602" height="473" alt="uia" src="https://github.com/user-attachments/assets/f2e8a75a-79de-4a38-ac07-b71376821d74" />
+
 Android Automotive OS: Dựa trên Android như hệ điều hành trên nhiều điện thoại và máy tính bảng, lý tưởng cho giao diện thân thiện với người dùng khi sử dụng các tính năng trên ô tô như nghe nhạc, dẫn đường và gọi rảnh tay. Phân vùng này chạy trên nền Linux và sử dụng trình quản lý gói để cài đặt, cập nhật ứng dụng.  
   
 Linux: Là hệ điều hành mã nguồn mở linh hoạt, được dùng rộng rãi. Phù hợp cho các tác vụ ô tô chung không yêu cầu hiệu năng gần thời gian thực nghiêm ngặt, đồng thời cung cấp trình quản lý gói để dễ dàng thêm hoặc cập nhật phần mềm.  
