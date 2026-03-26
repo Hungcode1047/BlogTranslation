@@ -1,12 +1,12 @@
 ﻿# Continental đang tái định nghĩa phát triển phần mềm nhúng.
 
-> **📖 Bài viết gốc**: https://aws.amazon.com/vi/blogs/industries/continental-is-redefining-embedded-software-development/ 
-> **👤 Tác giả**: Amir Mahdi Namazi, Daniel Schleicher, Martin Kraus, và Samer Odeh 
-> **📅 Ngày xuất bản**: 11 Tháng 4 2025
-> **🌐 Nguồn**: AWS for Industries 
-> **👨‍💻 Người dịch**: Nguyễn Huy Hùng - FCJ Intern  
-> **📅 Ngày dịch**: 06/07/2025 
-> **⏱️ Thời gian đọc**: 3-7 phút
+> **📖 Bài viết gốc**: https://aws.amazon.com/vi/blogs/industries/continental-is-redefining-embedded-software-development/  
+> **👤 Tác giả**: Amir Mahdi Namazi, Daniel Schleicher, Martin Kraus, và Samer Odeh   
+> **📅 Ngày xuất bản**: 11 Tháng 4 2025  
+> **🌐 Nguồn**: AWS for Industries   
+> **👨‍💻 Người dịch**: Nguyễn Huy Hùng - FCJ Intern    
+> **📅 Ngày dịch**: 06/07/2025   
+> **⏱️ Thời gian đọc**: 3-7 phút  
 
 ---
 
