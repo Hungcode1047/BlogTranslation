@@ -122,7 +122,7 @@ Samer Odeh là Quản lý Tài khoản Kỹ thuật (Technical Account Manager) 
 
 ---
 
-## 💬 Ghi chú của người dịch
+## 💬 Ghi chú trong quá trình dịch thuật
 
 Một số từ hơi lạ, cũng không quá khó nhưng để dịch tốt thì cảm thấy khó khăn.
 
